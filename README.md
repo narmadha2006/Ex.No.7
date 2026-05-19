@@ -27,7 +27,7 @@ o Suggest daily wellness advice (hydration, exercise, screen-time breaks).
 o Adapt suggestions based on past user preferences and responses.
 
 # Output:
-
+[PROMPT_EX7_REPORT](PROMPTEX7REPORT.pdf)
 
 # Result: 
 The lab exercise resulted in the creation of a prototype concept for a personal assistant powered by large language models. Students were able to:
